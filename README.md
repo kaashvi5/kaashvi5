@@ -25,7 +25,7 @@ Java • Python • HTML • CSS • React • Git • MySQL
 
 ### 📫 Connect With Me
 
-* ✉️ [kaashvigupta00@gmail.com](mailto:your-email@example.com)
+* ✉️ [kaashvi.codes@gmail.com](mailto:your-email@example.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/kaashvi-gupta/
 
 > *“Small progress every day still becomes something powerful.”*
