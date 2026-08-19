@@ -22,7 +22,7 @@
 ## 🪐 3D Contribution Universe
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kaashvi5/kaashvi5/main/3d-contrib.yml/profile-night-rainbow.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/kaashvi5/kaashvi5/blob/main/.github/workflows/3d-contrib.yml/profile-night-rainbow.svg" width="100%"/>
 </div>
 
 ---
