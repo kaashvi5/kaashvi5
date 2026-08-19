@@ -1,8 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00D4FF&height=220&section=header&text=KAASHVI%20GUPTA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AI%2FML)%20%7C%20Software%20Developer%20%7C%20Open%20Source&descAlignY=58&descSize=18"/>
+<!--
+  Custom space-themed banner (your uploaded image).
+  Upload it to your repo first — see the setup note at the bottom
+  of this file — and this line renders it full-width as the top banner.
+  GitHub strips CSS backgrounds, so text can't sit ON TOP of a photo
+  the way it could with a gradient generator — instead the name and
+  tagline sit right underneath as a typing animation, which reads
+  just as strong and stays crisp on every device.
+-->
+<img src="https://raw.githubusercontent.com/kaashvi5/kaashvi5/main/assets/banner.png" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Building+real+products%2C+not+just+demos;%F0%9F%A7%A0+DSA+%2B+System+Design+%2B+AI%2FML;%E2%9A%94%EF%B8%8F+LeetCode+Knight;%F0%9F%8C%90+Open+Source+Mentor+%7C+2x+Hackathon+Finalist" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=B084F5&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Kaashvi+Gupta+%F0%9F%91%8B;%F0%9F%9A%80+Building+real+products%2C+not+just+demos;%F0%9F%A7%A0+DSA+%2B+System+Design+%2B+AI%2FML;%E2%9A%94%EF%B8%8F+LeetCode+Knight;%F0%9F%8C%90+Open+Source+Mentor+%7C+2x+Hackathon+Finalist" />
 
 <br/>
 
@@ -189,3 +198,20 @@ Fraud detection web app that flags suspicious activity and phishing attempts, wi
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:8A2BE2&height=120&section=footer"/>
 
 </div>
+
+<!--
+  ═══════════════════════════════════════════════════════════
+  BANNER IMAGE SETUP (required for the top banner to show):
+  1. In your kaashvi5/kaashvi5 repo, create a folder called "assets"
+     (Add file → Create new file → type "assets/banner.png" as the
+     path — this creates the folder — then upload your image there
+     instead of typing text, using the "upload files" option).
+  2. Recommended size: crop/resize to roughly 1200x300px (wide
+     banner shape) so it doesn't look squished — the image you sent
+     me is closer to square, so widen the canvas or pick a
+     wide-format version of the same style if you have one.
+  3. Once uploaded as assets/banner.png on the main branch, the
+     <img> tag above will pick it up automatically — no code change
+     needed as long as the filename matches exactly.
+  ═══════════════════════════════════════════════════════════
+-->
