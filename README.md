@@ -1,14 +1,8 @@
 <div align="center">
 
-<!--
-  Custom space-themed banner, generated as an SVG (banner.svg in this
-  same download). Name and tagline are baked directly into the image,
-  so it renders as one clean piece — no separate typing overlay needed
-  for the header. Setup instructions are at the bottom of this file.
--->
-<img src="https://raw.githubusercontent.com/kaashvi5/kaashvi5/main/banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00D4FF&height=220&section=header&text=KAASHVI%20GUPTA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AI%2FML)%20%7C%20Software%20Developer%20%7C%20Open%20Source&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=B084F5&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Building+real+products%2C+not+just+demos;%F0%9F%A7%A0+DSA+%2B+System+Design+%2B+AI%2FML;%E2%9A%94%EF%B8%8F+LeetCode+Knight;%F0%9F%8C%90+Open+Source+Mentor+%7C+2x+Hackathon+Finalist" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Building+real+products%2C+not+just+demos;%F0%9F%A7%A0+DSA+%2B+System+Design+%2B+AI%2FML;%E2%9A%94%EF%B8%8F+LeetCode+Knight;%F0%9F%8C%90+Open+Source+Mentor+%7C+2x+Hackathon+Finalist" />
 
 <br/>
 
