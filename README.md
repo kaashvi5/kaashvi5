@@ -1,17 +1,14 @@
 <div align="center">
 
 <!--
-  Custom space-themed banner (your uploaded image).
-  Upload it to your repo first — see the setup note at the bottom
-  of this file — and this line renders it full-width as the top banner.
-  GitHub strips CSS backgrounds, so text can't sit ON TOP of a photo
-  the way it could with a gradient generator — instead the name and
-  tagline sit right underneath as a typing animation, which reads
-  just as strong and stays crisp on every device.
+  Custom space-themed banner, generated as an SVG (banner.svg in this
+  same download). Name and tagline are baked directly into the image,
+  so it renders as one clean piece — no separate typing overlay needed
+  for the header. Setup instructions are at the bottom of this file.
 -->
-<img src="https://raw.githubusercontent.com/kaashvi5/kaashvi5/main/assets/banner.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/kaashvi5/kaashvi5/main/banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=B084F5&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Kaashvi+Gupta+%F0%9F%91%8B;%F0%9F%9A%80+Building+real+products%2C+not+just+demos;%F0%9F%A7%A0+DSA+%2B+System+Design+%2B+AI%2FML;%E2%9A%94%EF%B8%8F+LeetCode+Knight;%F0%9F%8C%90+Open+Source+Mentor+%7C+2x+Hackathon+Finalist" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=B084F5&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Building+real+products%2C+not+just+demos;%F0%9F%A7%A0+DSA+%2B+System+Design+%2B+AI%2FML;%E2%9A%94%EF%B8%8F+LeetCode+Knight;%F0%9F%8C%90+Open+Source+Mentor+%7C+2x+Hackathon+Finalist" />
 
 <br/>
 
@@ -201,17 +198,15 @@ Fraud detection web app that flags suspicious activity and phishing attempts, wi
 
 <!--
   ═══════════════════════════════════════════════════════════
-  BANNER IMAGE SETUP (required for the top banner to show):
-  1. In your kaashvi5/kaashvi5 repo, create a folder called "assets"
-     (Add file → Create new file → type "assets/banner.png" as the
-     path — this creates the folder — then upload your image there
-     instead of typing text, using the "upload files" option).
-  2. Recommended size: crop/resize to roughly 1200x300px (wide
-     banner shape) so it doesn't look squished — the image you sent
-     me is closer to square, so widen the canvas or pick a
-     wide-format version of the same style if you have one.
-  3. Once uploaded as assets/banner.png on the main branch, the
-     <img> tag above will pick it up automatically — no code change
-     needed as long as the filename matches exactly.
+  BANNER SETUP (required for the top banner to show):
+  1. In your kaashvi5/kaashvi5 repo: Add file → Create new file.
+  2. Name it exactly: banner.svg (at the repo root, next to README.md).
+  3. Open banner.svg from this download in a text editor, copy ALL
+     of its contents, and paste into GitHub's editor.
+  4. Commit directly to main.
+  5. The <img> tag above will pick it up automatically once it's
+     on the main branch — refresh your profile page to confirm.
+  It's pure code (SVG markup), so this is a paste, not an upload —
+  same flow as adding the workflow files.
   ═══════════════════════════════════════════════════════════
 -->
